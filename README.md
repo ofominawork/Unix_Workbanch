@@ -1,4 +1,1 @@
-## GUESS GAME
-1. DATE: 2020-04-15
-TIME: 14:13:16
-2. LINES: 28
+## GUESS GAME (for Coursera Unix Workbench course)
