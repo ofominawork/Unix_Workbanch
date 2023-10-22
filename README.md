@@ -1,2 +1,1 @@
-##### GUESS GAME 
-(for Coursera Unix Workbench course)
+##### GUESS GAME (for Coursera Unix Workbench course)
